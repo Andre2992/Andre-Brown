@@ -200,6 +200,7 @@ a{
 a:hover{
     cursor: pointer;
     transition: box-shadow 1s;
+    color: blue;
 }
 .social:hover{
     cursor: pointer;
